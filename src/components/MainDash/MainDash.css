@@ -4,13 +4,6 @@
   justify-content: space-evenly;
 }
 
-@media screen and (max-width: 1500px) {
-  .MainDash {
-    justify-content: flex-end;
-    margin-top: 0;
-  }
-}
-
 @media screen and (max-width: 1200px) {
   .MainDash {
     justify-content: flex-start;

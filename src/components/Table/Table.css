@@ -32,6 +32,6 @@ th {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 85%;
+    width: 18rem;
   }
 }
